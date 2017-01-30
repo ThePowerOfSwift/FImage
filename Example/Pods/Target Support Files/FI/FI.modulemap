@@ -1,0 +1,6 @@
+framework module FI {
+  umbrella header "FI-umbrella.h"
+
+  export *
+  module * { export * }
+}

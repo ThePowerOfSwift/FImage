@@ -17,7 +17,7 @@ FI is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod "FI"
+pod "FI", :git => 'https://github.com/ThePowerOfSwift/FImage.git'
 ```
 
 ## Author
